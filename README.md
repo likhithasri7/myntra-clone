@@ -14,4 +14,3 @@ A static clone of the Myntra homepage built purely using **HTML** and **CSS**. T
 ![Myntra Clone Screenshot](https://github.com/user-attachments/assets/fc631e29-b5d4-49e2-8770-041fe896c940)
 
 
-## 📁 Project Structure
